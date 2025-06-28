@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm SREEKUTTAN
 <h1 align="center">Hi 👋, I'm Sreekuttan</h1>
-<p align="center">Fullstack Developer | MERN Stack | Freelancer | Tech Enthusiast</p>
+<p align="center">Fullstack Developer | MERN Stack  | Tech Enthusiast</p>
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sreekuttan-n/)](https://www.linkedin.com/in/sreekuttan-n/)
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on [MentorOne](https://github.com/yourproject)
